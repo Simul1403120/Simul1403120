@@ -6,7 +6,7 @@ I am an **Assistant Professor in Electrical and Electronic Engineering at Dhaka 
 
 My research focuses on developing **efficient, accurate, and explainable AI models** for real-world applications, particularly in **medical image analysis, biomedical signal processing, healthcare, and intelligent systems**.
 
-## 🔬 Research Interests
+##  Research Interests
 
 * Machine Learning & Deep Learning
 * Computer Vision & Image Processing
@@ -120,9 +120,9 @@ I am open to:
 
  **Email:** [simul@duet.ac.bd](mailto:simul@duet.ac.bd)
 
- **Google Scholar:** [[Google Scholar Profile](https://scholar.google.com/citations?user=T754wTAAAAAJ&hl=en)]()
+ **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=T754wTAAAAAJ&hl=en)
 
- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/md-simul-hasan-talukder/)]()
+ **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-simul-hasan-talukder/)
 
 ---
 
