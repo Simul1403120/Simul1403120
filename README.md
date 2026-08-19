@@ -71,13 +71,13 @@ My primary technical stack includes Python, TensorFlow, Keras, Scikit-learn, Num
 
 **M.Sc. in Electrical & Electronic Engineering**
 Rajshahi University of Engineering & Technology
-**GPA: 3.92/4.00**
+
 
 Thesis: *Nutrient Deficiency Detection of Plant by Using Machine Learning*
 
 **B.Sc. in Electrical & Electronic Engineering**
 Khulna University of Engineering & Technology
-**GPA: 3.72/4.00**
+
 
 Thesis: *Enhancing Security through Reversible Image Data Hiding Based on Image Cryptography*
 
@@ -120,9 +120,9 @@ I am open to:
 
 📧 **Email:** [simul@duet.ac.bd](mailto:simul@duet.ac.bd)
 
-🔎 **Google Scholar:** [Google Scholar Profile](#)
+🔎 **Google Scholar:** [[Google Scholar Profile](https://scholar.google.com/citations?user=T754wTAAAAAJ&hl=en)](#)
 
-💼 **LinkedIn:** [LinkedIn Profile](#)
+💼 **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/md-simul-hasan-talukder/)](#)
 
 ---
 
